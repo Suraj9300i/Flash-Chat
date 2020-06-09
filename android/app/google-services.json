@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222670515091",
+    "firebase_url": "https://flash-chat-a49fd.firebaseio.com",
+    "project_id": "flash-chat-a49fd",
+    "storage_bucket": "flash-chat-a49fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222670515091:android:af22c265ac1327e0f59666",
+        "android_client_info": {
+          "package_name": "suraj.gupta.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222670515091-jljaedl8eofco1gjp4k7965c91dtbbat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "suraj.gupta.flashchat",
+            "certificate_hash": "eba63846d010d9f274351a35593de8b2c24a3c71"
+          }
+        },
+        {
+          "client_id": "222670515091-1cc9fdshi00i11qgqs3oleug5thqqto9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5ujuCU-71Sf9VwlviCBUqG-02Z9ojp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222670515091-1cc9fdshi00i11qgqs3oleug5thqqto9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
